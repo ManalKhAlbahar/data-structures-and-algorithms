@@ -4,7 +4,7 @@ a reverse array as output>
 
 ## Whiteboard Process
 
-![reversearr](reversearr.PNG)
+![reversearr](array-reverse.PNG)
 
 ## Approach & Efficiency
 use for loop and push method to reverse an array .
