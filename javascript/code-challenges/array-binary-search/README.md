@@ -3,7 +3,7 @@ Write a function called BinarySearch which takes in 2 parameters: a sorted array
 
 ## Whiteboard Process
 
-![array-binary-search](array-binary-search)
+![array-binary-search](array-binary-search.PNG)
 
 ## Approach & Efficiency
-use for loop and push method to reverse an array .
+first get the min, max, and mid index of the given array.use a while loop to interate the array in half segments while the search key is not found.
