@@ -7,10 +7,10 @@ constructed and traversed.
 ![append](append.PNG)
 
 - inserAfter 
-![inserAfter](inserafter.PNG)
+![inserAfter](insertafter.PNG)
 
-- inserAfter 
-![inserAfter](inserafter.PNG)
+- inserbefore 
+![inserAfter](insertbefore.PNG)
 
 ## Approach & Efficiency
 Time Complexity : append O(n) InsertBefore , O(n) InsertAfter, is O(n)
