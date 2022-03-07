@@ -4,7 +4,7 @@ constructed and traversed.
  
 ## Whiteboard Process
 - Append 
-![append](Append.PNG)
+![append](append.PNG)
 
 - inserAfter 
 ![inserAfter](inserafter.PNG)
