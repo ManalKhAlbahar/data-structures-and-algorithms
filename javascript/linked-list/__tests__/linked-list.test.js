@@ -28,24 +28,33 @@ describe('insert to the beginning of the LL', () => {
 })
 
 
-describe('ll is exit or not', () => {
-    it('exit or not LL', () => {
-        const ll = new LinkedList();
-        ll.insert('a');
-        ll.insetr('b')
-        expect(ll.includes('a')).toBe(true);
-        expect(ll.includes('b')).toBe(true);
-        expect(ll.includes('ac')).toBeFalsy();
-        
-    })
-    //"{ a } -> { b } -> { c } -> NULL"
-    it('add toString c',()=>{
-        const ll = new LinkedList();
+describe("check if it exists or not ", () => {
+
+    it("lets check", () => {
+        const ll = new LinkedLilst();
         ll.insert('a');
         ll.insert('b');
+        expect(ll.includes('a')).toBe(true);
+        expect(ll.includes('b')).toBe(true);
+        expect(ll.includes('c')).toBeFalsy();
+
+    })
+
+})
+
+
+//"{ a } -> { b } -> { c } -> NULL"
+
+describe("toString ll  ", () => {
+
+    it("toString ll ", () => {
+        const ll = new LinkedLilst();
         ll.insert('c');
+        ll.insert('b');
+        ll.insert('a');
         expect(ll.toString()).toBe("{ a } -> { b } -> { c } -> NULL");
-       
+        
+
     })
 
 });
