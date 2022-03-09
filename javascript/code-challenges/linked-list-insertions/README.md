@@ -4,16 +4,13 @@ constructed and traversed.
  
 ## Whiteboard Process
 - Append 
-
 ![append](append.PNG)
 
 - inserAfter 
+![inserAfter](insertafter.PNG)
 
-![inserAfter](inserafter.PNG)
-
-- inserAfter 
-
-![inserAfter](inserafter.PNG)
+- inserbefore 
+![inserAfter](insertbefore.PNG)
 
 - the kth end
 ![kth](kth.PNG)
