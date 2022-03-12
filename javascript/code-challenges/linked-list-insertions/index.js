@@ -31,9 +31,9 @@ class LinkedList {
     }
     append(value) {
         const node = new Node(value);
-        if (!this.head) { //means LL is empty
+        if (!this.head) { 
             this.head = node;
-        } else { //means LL is not empty
+        } else { 
             let currentNode = this.head;
 
             while (currentNode.next) {
@@ -55,6 +55,32 @@ class LinkedList {
             return values;
         }
         else return "empty list";
+
+    }
+    
+    insertBefore(value, newValue) {
+        const node = new Node(newValue);
+        let currentNode  = this.head;
+        while (currentNode .next != null) {
+            currentNode  = currentNode .next;
+            if (currentNode.next.value == value) {
+                node.next = currentNode .next;
+                currentNode.next = node;
+                return null;
+            }
+        }
+    }
+    insertAfter(value, newValue) {
+        const node = new Node(newValue);
+        let currentNode  = this.head;
+        while (currentNode .next != null) {
+            currentNode  = currentNode .next;
+            if (currentNode .value == value) {
+                node.next = currentNode .next;
+                currentNode .next = node;
+                return null;
+            }
+        }
 
     }
 
