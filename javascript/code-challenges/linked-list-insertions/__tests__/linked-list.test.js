@@ -71,7 +71,7 @@ describe("toString ll  ", () => {
         ll.insert('c');
         ll.insert('b');
         ll.insert('a');
-        expect(ll.toString()).toBe("{ a } -> { b } -> { c } -> NULL");      
+        expect(ll.toString()).toBe("{a} ->{b} ->{c} ->Null");      
     })
     it('testing insertbefore',()=>{
         const ll = new LinkedList() ;
@@ -114,5 +114,26 @@ describe("toString ll  ", () => {
         expect(ll.getKth(-1)).toEqual('Exception')
     
       })
-
 });
+
+describe('test zipLists', () => {
+    it('testing zipList method:',()=>{
+        const list1 = new LinkedList();
+        const list2 = new LinkedList();
+        const list3 = new LinkedList();
+        
+    
+        list1.insert(5);
+        list1.insert(3);
+        list1.insert(1);
+    
+        list2.insert(6);
+        list2.insert(4);
+        list2.insert(2);
+    
+        list3.zipLists(list1,list2);
+      
+      expect(list3.toString()).toBe('{1} ->{2} ->{3} ->{4} ->{5} ->{6} ->Null')
+      
+      })
+})

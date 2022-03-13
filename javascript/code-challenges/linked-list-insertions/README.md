@@ -18,6 +18,9 @@ constructed and traversed.
 - the kth end
 ![kth](kth.PNG)
 
+- the zipList
+![zipLists](zipLists.jpg)
+
 ## Approach & Efficiency
 
 Time Complexity : append O(n) InsertBefore , O(n) InsertAfter, is O(n)
