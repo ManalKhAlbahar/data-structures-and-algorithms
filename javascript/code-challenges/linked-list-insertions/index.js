@@ -31,9 +31,9 @@ class LinkedList {
     }
     append(value) {
         const node = new Node(value);
-        if (!this.head) { 
+        if (!this.head) {
             this.head = node;
-        } else { 
+        } else {
             let currentNode = this.head;
 
             while (currentNode.next) {
@@ -48,23 +48,23 @@ class LinkedList {
         if (this.head != null) {
             let headV = this.head;
             while (headV != null) {
-                values = values + `{ ${headV.value} } -> `;
+                values = values + `{${headV.value}} ->`;
                 headV = headV.next;
             }
-            values = values + `NULL`;
+            values = values + `Null`;
             return values;
         }
         else return "empty list";
 
     }
-    
+
     insertBefore(value, newValue) {
         const node = new Node(newValue);
-        let currentNode  = this.head;
-        while (currentNode .next != null) {
-            currentNode  = currentNode .next;
+        let currentNode = this.head;
+        while (currentNode.next != null) {
+            currentNode = currentNode.next;
             if (currentNode.next.value == value) {
-                node.next = currentNode .next;
+                node.next = currentNode.next;
                 currentNode.next = node;
                 return null;
             }
@@ -72,12 +72,12 @@ class LinkedList {
     }
     insertAfter(value, newValue) {
         const node = new Node(newValue);
-        let currentNode  = this.head;
-        while (currentNode .next != null) {
-            currentNode  = currentNode .next;
-            if (currentNode .value == value) {
-                node.next = currentNode .next;
-                currentNode .next = node;
+        let currentNode = this.head;
+        while (currentNode.next != null) {
+            currentNode = currentNode.next;
+            if (currentNode.value == value) {
+                node.next = currentNode.next;
+                currentNode.next = node;
                 return null;
             }
         }
@@ -103,6 +103,27 @@ class LinkedList {
 
         return currentNode.value;
     }
+
+    zipLists(list1, list2) {
+
+        let listOne = list1.head;
+        let listTwo = list2.head;
+
+        while (listOne || listTwo) {
+            if (listOne) {
+                this.append(listOne.value);
+                listOne = listOne.next;
+            }
+            if (listTwo) {
+                this.append(listTwo.value);
+                listTwo = listTwo.next;
+            }
+        }
+    }
+
 }
+
+
+
 
 module.exports = LinkedList;
