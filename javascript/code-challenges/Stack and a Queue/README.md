@@ -2,7 +2,7 @@
 
 - A Stack is a linear data structure. that consists of Nodes. Each Node references 
 the next Node in the stack, but does not reference its previous.
-- - A Queue is a linear data structure. It is an ordered list that follows the 
+- A Queue is a linear data structure. It is an ordered list that follows the 
 principle FIFO (First In -First Out). A Queue is a structure that follows some 
 restrictions on insertion and deletion
 
