@@ -10,3 +10,4 @@
 | code challange7| [linked-list-insertions](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/tree/main/javascript/code-challenges/linked-list-insertions) |
 | code challange8| [linked-list-insertions](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/tree/main/javascript/code-challenges/linked-list-insertions) |
 | code challange10| [Stack and a Queue](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/Stack%20and%20a%20Queue/README.md) |
+| code challange11| [StackQueue](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/Stack%20and%20a%20Queue/README.md) |
