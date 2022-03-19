@@ -1,3 +1,24 @@
+
+# Challenge Sammary
+A queue method using two stacks
+
+## Whiteboard Process
+- stackQueue 
+
+![stackQueue](stackQueue.PNG)
+
+## Approach & Efficiency
+
+- Time Complexity : o(1)
+- Space Complexity : O(1)
+
+## solution
+
+- enqueue(value) which inserts value into the stackQueue, using FIFO approach.
+- dequeue() which extracts a value from the stackQueue, using FIFO approach.
+
+
+
 # Stack and a Queue
 
 - A Stack is a linear data structure. that consists of Nodes. Each Node references 
@@ -17,3 +38,4 @@ restrictions on insertion and deletion
 
 # API
 - npm test to test the files (node.test.js , Queue.test.js and Stack.test.js ).
+
