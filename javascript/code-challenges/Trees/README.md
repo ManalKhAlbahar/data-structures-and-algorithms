@@ -10,7 +10,7 @@ location in the binary search tree, Contains :Returns boolean indicating whether
 
 ## Approach & Efficiency
 - BinaryTree: preOrder(), inOrder(), postOrder().
-- BST : add, contains .
+- BST : add(value), contains(value) .
 ## API
 - npm test to test the files (binarySearchTree.test.js , and binaryTree.test.js ).
 
