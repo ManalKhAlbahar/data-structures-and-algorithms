@@ -2,7 +2,7 @@
 -  Write a function called  fizzBuzzTree.
 
 ## Whiteboard Process
-![tree-fizz-buzz](tree-fizz-buzz.jpg)
+![tree-fizz-buzz](tree-fizz-buzz1.jpg)
 
 ## Approach & Efficiency
 - Time Complexity : o(n)
