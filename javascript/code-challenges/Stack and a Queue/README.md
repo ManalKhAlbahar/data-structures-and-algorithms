@@ -41,7 +41,7 @@ A queue method using two stacks
 ## Whiteboard Process
 - stackQueue 
 
-![stackQueue](stackQueue.PNG)
+![stackQueue](stackQueue.jpg)
 
 ## Approach & Efficiency
 
