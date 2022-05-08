@@ -20,3 +20,5 @@
 | code challange18| [tree-fizz-buzz](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/tree-fizz-buzz/README.md) |
 | code challange26| [InsertionSort](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/InsertionSort/BLOG.md) |
 | code challange27| [MergeSort](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/MergeSort/README.md) |
+| code challange28| [QuickSort](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/QuickSort/README.md) |
+
