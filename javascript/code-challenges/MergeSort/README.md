@@ -12,5 +12,5 @@
 ## Solution
 
 - Arguments: Array
-- Return: list of all values in the tree, in the order they were encountered
+- Return: list of all values in the array, in the order they were encountered
 - use npm test .
