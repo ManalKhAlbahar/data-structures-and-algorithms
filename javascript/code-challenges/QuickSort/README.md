@@ -1,16 +1,16 @@
 # Challenge Summary
--  Write a function called MergeSort.
+- Write a function called QuickSort.
 - Review the pseudocode below, then trace the algorithm by stepping through the process with the provided sample array. 
 
 ## Whiteboard Process
-![MergeSort](MergeSort.jpg)
+![QuickSort](QuickSort.jpg)
 
 ## Approach & Efficiency
-- Time Complexity : o(n+logn)
-- Space Complexity : O(n)
+- Time Complexity : o(n log n)
+- Space Complexity : O(log n)
 
 ## Solution
 
 - Arguments: Array
-- Return: list of all values in the array , in the order they were encountered
+- Return: list of all values in the array, in the order they were encountered
 - use npm test .

@@ -18,5 +18,7 @@
 | code challange16| [Max Tree](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/TreeMax/README.md) |
 | code challange17| [tree-breadth-first](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/Tree-Breadth-First/README.md) |
 | code challange18| [tree-fizz-buzz](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/tree-fizz-buzz/README.md) |
-| code challange26| [InsertionSort](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/InsertionSort/BLOG.md) |
+| code challange26| [InsertionSort](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/InsertionSort/README.md) |
 | code challange27| [MergeSort](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/MergeSort/README.md) |
+| code challange28| [QuickSort](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/QuickSort/README.md) |
+
