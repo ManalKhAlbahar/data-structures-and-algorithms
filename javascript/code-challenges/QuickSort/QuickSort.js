@@ -1,19 +1,32 @@
 'use strict'
 
-const QuickSort= (arr)=> {
-    if (arr.length < 2) return arr;
-    let pivot = arr[0];
-    const left = [];
-    const right = [];
-      
-    for (let i = 1; i < arr.length; i++) {
-      if (pivot > arr[i]) {
-        left.push(arr[i]);
-      } else {
-        right.push(arr[i]);
-      }
+const QuickSort = (arr, left, right)=> {
+    if (left < right) {
+        let position = partition(arr, left, right);
+        QuickSort(arr, left, position - 1);
+        QuickSort(arr, position + 1, right);
     }
-    return QuickSort(left).concat(pivot, QuickSort(right));
-  }
+}
 
-  module.exports=QuickSort;
+function partition(arr, left, right) {
+    let pivot = arr[right];
+    let low = left - 1;
+    for (let i = left; i < right; i++) {
+        if (arr[i] <= pivot) {
+            low++;
+            swap(arr, i, low);
+        }
+    }
+    swap(arr, right, (low + 1));
+    return (low + 1);
+}
+
+function swap(arr, i, low) {
+    let temp;
+    temp = arr[i];
+    arr[i] = arr[low];
+    arr[low] = temp;
+
+}
+
+module.exports=QuickSort;
