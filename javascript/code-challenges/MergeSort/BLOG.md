@@ -1,4 +1,4 @@
-# Insertion Sort
+# MergeSort
 - Write a function called  MergeSort.
 - Review the pseudocode below, then trace the algorithm by stepping through the process with the provided sample array. 
 
