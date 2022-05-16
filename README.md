@@ -22,3 +22,4 @@
 | code challange27| [MergeSort](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/MergeSort/README.md) |
 | code challange28| [QuickSort](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/QuickSort/README.md) |
 | code challange30| [Hashtable](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/hashtable/README.md) |
+| code challange31| [hashmap-repeated-word](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/hashmap-repeated-word/README.md) |
