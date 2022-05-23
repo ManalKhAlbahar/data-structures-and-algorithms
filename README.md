@@ -24,4 +24,4 @@
 | code challange30| [Hashtable](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/hashtable/README.md) |
 | code challange31| [hashmap-repeated-word](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/hashmap-repeated-word/README.md) |
 | code challange32| [tree-intersection](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/tree-intersection/README.md) |
-| code challange33| [hashmap-left-join](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/hashmap-left-join/javascript/code-challenges/hashmap-left-join%20/README.md)|
+| code challange33| [hashmap-left-join](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/hashmap-left-join%20/README.md)|
