@@ -6,7 +6,7 @@
 ![MergeSort](MergeSort.jpg)
 
 ## Approach & Efficiency
-- Time Complexity : o(n+lonn)
+- Time Complexity : o(n+logn)
 - Space Complexity : O(n)
 
 ## Solution
