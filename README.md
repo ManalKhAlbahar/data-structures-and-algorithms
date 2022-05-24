@@ -8,8 +8,8 @@
 | code challange3| [Array Binary Search](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/tree/main/javascript/code-challenges/array-binary-search) |
 | code challange5| [Linked List](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/tree/main/javascript/linked-list) |
 | code challange6| [linked-list-insertions](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/tree/main/javascript/code-challenges/linked-list-insertions) |
-| code challange7| [linked-list-insertions](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/tree/main/javascript/code-challenges/linked-list-insertions) |
-| code challange8| [linked-list-insertions](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/tree/main/javascript/code-challenges/linked-list-insertions) |
+| code challange7| [linked-list-kth](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/tree/main/javascript/code-challenges/linked-list-kth) |
+| code challange8| [linked-list-zip](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/tree/main/javascript/code-challenges/linked-list-zip) |
 | code challange10| [Stack and a Queue](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/Stack%20and%20a%20Queue/README.md) |
 | code challange11| [StackQueue](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/Stack%20and%20a%20Queue/README.md) |
 | code challange12| [stack-queue-animal-shelter](https://github.com/ManalKhAlbahar/data-structures-and-algorithms/blob/main/javascript/code-challenges/Stack%20and%20a%20Queue/README.md) |
