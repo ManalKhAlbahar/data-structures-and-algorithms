@@ -5,8 +5,8 @@
 ![breadth-first](breadth-first.jpg)
 
 ## Approach & Efficiency 
-- Time Complexity : o(n^2) use more time to loop through the array
-- Space Complexity : O(n) use extray space 
+- Time Complexity : o(n^2) use more time to loop through the array .
+- Space Complexity : O(n) use extray space for the result array .
 
 ## Solution
 
