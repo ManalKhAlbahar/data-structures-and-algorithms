@@ -15,24 +15,24 @@
 ## Approach & Efficiency
 
 - add node 
-    - Time Complexity : O(1) 
-    - Space Complexity : O(1) 
+    - Time Complexity : O(1) time to add the new vertex.
+    - Space Complexity : O(1) space to add the new vertex
 
 - add edge
-    - Time Complexity : O(1) 
-    - Space Complexity : O(1)
+    - Time Complexity : O(1) time to add new edge on the graph
+    - Space Complexity : O(1)space to to add new edge on the graph
 
 - get nodes
-    - Time Complexity : O(n)
-    - Space Complexity : O(n) 
+    - Time Complexity : O(n) use extray time for the result node
+    - Space Complexity : O(n) use extray space for the result node
 
 - get neighbors
-    - Time Complexity : O(n) 
-    - Space Complexity : O(n) 
+    - Time Complexity : O(n) use extray time for the result vertex
+    - Space Complexity : O(n) use extray space for the result vertex
 
 - size
-    - Time Complexity : O(1) 
-    - Space Complexity : O(1) 
+    - Time Complexity : O(1) time to find size
+    - Space Complexity : O(1) space to return the size 
 
 ## API
 
