@@ -6,8 +6,8 @@
 ![treeIntersection](treeIntersection.jpg)
 
 ## Approach & Efficiency
-- Time Complexity : o(n)
-- Space Complexity : O(n)
+- Time Complexity : o(n+log n) need more time to find the result
+- Space Complexity : O(n) space to return the result
 
 ## Solution
 
